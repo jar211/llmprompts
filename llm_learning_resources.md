@@ -21,4 +21,5 @@ This section lists resources that are useful for a general audience.
 
 | Level | Type | Title | Description |
 | ------- | ------- | -------------------- | ---------- |
+| Intermediate | Document | [How to stop saying 'Fuck you Cursor'](https://skylarbpayne.com/posts/cursed-cursor)| Structured process to pair program with AI to avoid the root cause of frustration when working with a AI code helper. The article argues that the problem is not the AI itself but rather how engineers work with it. Most engineers still have a solo mindset while technically pair programming with AI. They treat the AI as a god rather than a teammate. The article provides a concrete workflow to transform AI from a source of frustration into a genuine productivity multiplier. |
 |||||
